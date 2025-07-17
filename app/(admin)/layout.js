@@ -7,7 +7,6 @@ const AdminLayout = ({children})=>{
             <p className="navbar-head">Admin</p>
             <div className="admin-links">
             <Link href="/adminlogin">Home</Link>
-            <Link href="/adminabout">About</Link>
             <Link href="/adminlogin">Login</Link>
             </div>
              </div>

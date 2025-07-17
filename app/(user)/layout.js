@@ -6,7 +6,6 @@ const UserLayout = ({children})=>{
             <p className="navbar-head">📖 Book Store</p>
             <div className="user-links">
             <Link href="/">Home</Link>
-            <Link href="/userabout">About</Link>
             <Link href="/userlogin">Login</Link>
             </div>
           </div>
